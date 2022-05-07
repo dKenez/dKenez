@@ -58,9 +58,6 @@ Here are some ideas to get you started:
 <img align="left" alt="Tensorflow" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" style="padding-right:10px;" />
 <img align="left" alt="OpenCV" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/180px-OpenCV_Logo_with_text_svg_version.svg.png" style="padding-right:10px;" />
 <img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png" style="padding-right:10px;" />
-<img align="left" alt="Rust" width="26px" src="https://duckduckgo.com/i/832f249b.png" style="padding-right:10px;" />
-<img align="left" alt="C" width="26px" src="https://logodix.com/logo/640491.png" style="padding-right:10px;" />
-<img align="left" alt="C++" width="26px" src="https://logodix.com/logo/1137946.png" style="padding-right:10px;" />
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
@@ -71,7 +68,7 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-
+---
 <details>
 <summary>⚡ Github Languages</summary>
 
