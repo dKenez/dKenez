@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 🥅 2022 Goals: Learn more about web3
 - ⚡ Fun fact: I love to draw and play guitar / drums
 - 🏡 From Hungary 🇭🇺
-- 👨‍🎓 Living, studying, and looking for a job in Denmark 🇩🇰
+- 👨‍🎓 Living, studying, and working in Denmark 🇩🇰
 
 
 ### Connect:
