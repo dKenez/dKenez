@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 ## I'm a Student, Developer, and Tech Enthusiast!! 🚀
 
 - 🔭 Currently working on my own website
-- 🌱 I’m currently learning full Machine Learning 🤖🧠
+- 🌱 I’m currently delving into Machine Learning 🤖🧠
 - 👯 I’m looking to collaborate on open source projects
 - 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I love to draw and play guitar
 - 🏡 From Hungary 🇭🇺
 - 👨‍🎓 Living, studying, and working in Denmark 🇩🇰
 
