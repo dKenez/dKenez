@@ -2,6 +2,6 @@
 
 working stuff built here
 
-could tell you more but everyone
+could tell you more but we all
 
-knows what a horse is
+know what a horse is
